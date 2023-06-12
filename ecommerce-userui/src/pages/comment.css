@@ -1,0 +1,52 @@
+.comment-container {
+   
+    max-width: 10.5rem;
+        color: rgb(43, 34, 34);
+        background-color: #e6e0e0;
+        border-radius: 0.875rem;
+        padding: 0.2rem 1rem 2rem;
+        display: flex;
+        margin-left: 4%;
+        margin-top: 1%;
+        height: 3px;
+}
+.comment-box {
+    max-width: 37.5rem;
+        color: #fff;
+        background-color: #909090;
+        border-radius: 0.875rem;
+        padding: 0.2rem 1rem 2rem;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 4%;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.comment-input {
+    max-width: 34.5rem;
+    border-radius: 4px;
+    width: 400px;
+    height: 47px;
+    margin-top: 4%;
+    margin-right: 5px;
+}
+.submit-button {
+    width: 80px;
+    height: 50px;
+    background-color: rgb(2, 2, 2);
+    color: white;
+    font-size: 20px;
+    margin-top: 5%;
+    border-radius: 4px;
+}
+.heading {
+    margin-left: 5%;
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 3px;
+}
